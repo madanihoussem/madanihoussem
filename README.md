@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @madanihoussem
-- 👀 I’m interested in developpement
+- 👀 I’m interested in development
 - 🌱 I’m currently learning Swift, Android and Flutter
 - 💞️ I’m looking to collaborate on Symfony Projects
 - 📫 How to reach me ...
